@@ -3,8 +3,8 @@
 
 ![alt text](https://github.com/Zhang-Yong/CNC/blob/master/screenshots/front.jpg?raw=true "Front view")
 
-![alt text](https://github.com/Zhang-Yong/CNC/tree/master/screenshots/side.jpg?raw=true "side view")
+![alt text](https://github.com/Zhang-Yong/CNC/blob/master/screenshots/side.jpg?raw=true "side view")
 
-![alt text](https://github.com/Zhang-Yong/CNC/tree/master/screenshots/top.jpg?raw=true "top view")
+![alt text](https://github.com/Zhang-Yong/CNC/blob/master/screenshots/top.jpg?raw=true "top view")
 
-![alt text](https://github.com/Zhang-Yong/CNC/tree/master/screenshots/cnc.jpg?raw=true "Real picture")
+![alt text](https://github.com/Zhang-Yong/CNC/blob/master/screenshots/cnc.jpg?raw=true "Real picture")
